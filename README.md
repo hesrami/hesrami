@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Daniel!
-### 🔐 Red Teamer | ☁️ Aspiring DevSecOps | 🐧 Linux Enthusiast | 🧠 Lifelong Learner
+<h1 align='center'> Hi there, I'm Daniel!</h1>
+<h3 align='center'>🔐 Red Teamer | ☁️ Aspiring DevSecOps Engineer | 🐧 Linux Enthusiast | 🧠 Lifelong Learner</h3>
 
-- 🔭 Currently working on: OSCP & PNPT
-- 🌱 Learning: Python, FastAPI, Backend Dev, Cloud Engineering
-- 🛠️ Tools & Tech: Kali Linux, Docker, GitHub Actions, AWS,
-- 📖 Interests: InfoSec, DevOps, Red Teaming, Backend Engineering, Gaming, 
+- 🔭 Currently working on: OSCP & PNPT and Enrolled at AltSchool Backend Engineering.
+- 🌱 Learning: Active Direcrtory, Web application Security, Python, FastAPI, Backend Dev, Cloud Engineering
+- 🛠️ Tools & Tech: Kali Linux, Docker, GitHub Actions, AWS
+- 📖 Interests: Gaming, Active Directory, InfoSec, DevOps, Red Teaming, Backend Engineering 
 
 ---
 
@@ -16,6 +16,7 @@
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect w/me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daninyourcomputer/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miiide__)
+timer
