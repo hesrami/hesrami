@@ -6,6 +6,7 @@
 - 🛠️ Tools & Tech: Kali Linux, Docker, GitHub Actions, AWS
 - 📖 Interests: Gaming, Active Directory, InfoSec, DevOps, Red Teaming, Backend Engineering 
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ---
 
 ## 🧰 Tech Stack
