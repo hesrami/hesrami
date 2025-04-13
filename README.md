@@ -1,10 +1,12 @@
 <h1 align='center'> Hi there, I'm Daniel!</h1>
-<h3 align='center'>🔐 Red Teamer | ☁️ Aspiring DevSecOps Engineer | 🐧 Linux Enthusiast | 🧠 Lifelong Learner</h3>
+<h3 align='center'>🔐 Red Teamer | ☁️ Aspiring DevSecOps Engineer</h3>
 
-- 🔭 Currently working on: OSCP & PNPT and Enrolled at AltSchool Backend Engineering.
+- 🔭 Currently working on: OSCP & PNPT
+- 📝 Enrolled at AltSchool learning Backend Engineering.
 - 🌱 Learning: Active Direcrtory, Web application Security, Python, FastAPI, Backend Dev, Cloud Engineering
 - 🛠️ Tools & Tech: Kali Linux, Docker, GitHub Actions, AWS
-- 📖 Interests: Gaming, Active Directory, InfoSec, DevOps, Red Teaming, Backend Engineering 
+- 📖 Interests: Gaming, Active Directory, InfoSec, DevOps, Red Teaming, Backend Engineering
+- 💼 My Resume: [Wondering if I'm a fit for a role you got? Check my Resume here](https://drive.google.com/file/d/1NUMxe5mS34lmG-L-JM12CR0mvTMrBgIA/view?usp=drive_link)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 ---
